@@ -8,7 +8,16 @@ h1{
 }
 h2{
   color: navy;
+  text-align: center;
 }
 h3{
   color: navy;
+  margin-left: auto;
+  margin-right: auto;
+  width:43em
+}
+P.blocktext{
+  margin-left: auto;
+  margin-right: auto;
+  width:50em
 }
