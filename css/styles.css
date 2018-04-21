@@ -1,5 +1,5 @@
 Body{
-  background-color: blue;
+  background-color: 0066FF;
   color: white;
 }
 h1{
@@ -20,4 +20,20 @@ P.blocktext{
   margin-left: auto;
   margin-right: auto;
   width:50em
+}
+ul.blocktext{
+  margin-left: auto;
+  margin-right: auto;
+  width:50em
+}
+ol.blocktext{
+  margin-left: auto;
+  margin-right: auto;
+  width:50em
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
 }
